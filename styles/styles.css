@@ -20,6 +20,7 @@ body {
 .description {
     font-weight: 400;
     font-size: 14px;
+    opacity: 0.7;
 }
 
 
@@ -38,6 +39,7 @@ body {
     height: 652px;
     padding-left: 0;
     justify-content: center;
+    gap: 20px;
 }
 
 .title {
@@ -53,3 +55,20 @@ body {
     border-radius: 8px;
     cursor: pointer;
 }
+
+/* main section  */
+
+.main-container {
+    margin-top: 100px;
+}
+
+.why-web-dev-title {
+    text-align: center;
+}
+
+.why-web-dev-description {
+    text-align: center;
+    opacity: 0.7;
+}
+
+.learn-more {}
