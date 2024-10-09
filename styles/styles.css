@@ -1,0 +1,18 @@
+/* shared stlyes */
+
+.dark1 {
+    color: #0D1321;
+}
+
+
+/* Banner */
+
+.banner {
+    background-image: url('/assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
