@@ -37,7 +37,7 @@ body {
 }
 
 .banner {
-    background-image: url('/assets/Hero-bg.png');
+    background-image: url('../assets/Hero-bg.png');
     background-size: auto;
     background-repeat: no-repeat;
     background-position: top left, bottom right;
