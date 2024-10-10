@@ -223,7 +223,7 @@ body {
 }
 
 .need-support-title {
-    background-image: url('/assets/handshake.jpg');
+    background-image: url('../assets/handshake.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
